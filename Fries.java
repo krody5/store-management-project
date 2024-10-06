@@ -25,5 +25,4 @@ public Fries () {
     return text;
   }
 
-  //other method 
 } 

@@ -22,6 +22,4 @@ public Burger () {
     return text;
   }
 
-
-  //other method 
 } 
